@@ -1,5 +1,5 @@
 ## Проект 1. Отчёт в Google Таблицах для салона красоты
-**Ссылка:** https://docs.google.com/spreadsheets/d/1Q58Qw1Q060-uwRbgAGoMjwLm4Qede6Z3ql5vg_Buo6A/edit?usp=sharing
+**Ссылка:** https://docs.google.com/spreadsheets/d/1Q58Qw1Q060-uwRbgAGoMjwLm4Qede6Z3ql5vg_Buo6A/edit?usp=sharing  
 **Задача:** найти точки роста для увеличения прибыли салона за счет оптимизации скидок и ассортимента.  
 **Инструменты:** Google Таблицы  (сводные таблицы, формулы)    
 **Что реализовано:**   
